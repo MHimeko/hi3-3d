@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hi3-3d/static/css/main.45befbfb.chunk.css",
+    "main.js": "/hi3-3d/static/js/main.ca88de07.chunk.js",
+    "main.js.map": "/hi3-3d/static/js/main.ca88de07.chunk.js.map",
+    "runtime-main.js": "/hi3-3d/static/js/runtime-main.5e0c9ac8.js",
+    "runtime-main.js.map": "/hi3-3d/static/js/runtime-main.5e0c9ac8.js.map",
+    "static/js/2.92d908fb.chunk.js": "/hi3-3d/static/js/2.92d908fb.chunk.js",
+    "static/js/2.92d908fb.chunk.js.map": "/hi3-3d/static/js/2.92d908fb.chunk.js.map",
+    "static/js/3.1ddc8b4d.chunk.js": "/hi3-3d/static/js/3.1ddc8b4d.chunk.js",
+    "static/js/3.1ddc8b4d.chunk.js.map": "/hi3-3d/static/js/3.1ddc8b4d.chunk.js.map",
+    "index.html": "/hi3-3d/index.html",
+    "static/css/main.45befbfb.chunk.css.map": "/hi3-3d/static/css/main.45befbfb.chunk.css.map",
+    "static/js/2.92d908fb.chunk.js.LICENSE.txt": "/hi3-3d/static/js/2.92d908fb.chunk.js.LICENSE.txt",
+    "static/media/vkhimeko.bf015070.png": "/hi3-3d/static/media/vkhimeko.bf015070.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e0c9ac8.js",
+    "static/js/2.92d908fb.chunk.js",
+    "static/css/main.45befbfb.chunk.css",
+    "static/js/main.ca88de07.chunk.js"
+  ]
+}
